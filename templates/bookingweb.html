@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block content %}
+<div class="content-section">
+    <form method="POST" action="">
+        <fieldset class="form-group">
+            <div class="input-field col l6 m6 s12">
+                <input type="text" id="from" value="" class="ui-autocomplete-input" autocomplete="off">
+                <label for="from" class="">From</label>
+            </div>
+            <div class="input-field col l6 m6 s12">
+                <input type="text" id="to" value="" class="ui-autocomplete-input" autocomplete="off">
+                <label for="to">To</label>
+            </div>
+        </fieldset>
+    </form>   	    
+</div>
+{% endblock %}
