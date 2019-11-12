@@ -1,7 +1,6 @@
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, DateField, RadioField
 from wtforms.validators import DataRequired, Length, EqualTo
-from booking import IATA
 
 
 class AirportsForm(FlaskForm):

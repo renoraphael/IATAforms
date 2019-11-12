@@ -1,0 +1,28 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2511
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Log\
+1. Find python modules online: 15 minutes (I use pyairports modules from github)\
+2. Building the website (html + css): 2 hours\
+3. Building the forms : 30 minutes\
+4. Research on how to integrate SQL Alchemy : 1 hour\
+5. Research on autocomplete form : 30 minutes\
+5. (PROBLEM) Integrating flask_sqlachemy into the program : 2 hours and to no avail\
+	** the problem is with db.SQLAlchemy(app), the terminal says db is not defined\
+6. Looking for solutions (github and stackoverflow) on how to import and define db : 1 hour and no results\
+\
+In conclusion, I still need to learn a lot on how integrate database into my work, especially on how to tie pyairports module into my database\
+\
+Skills that I have already:\
+1. HTML, CSS\
+2. Setup Flask App and virtual environment\
+3. Running Flask Form\
+4. Using github by using terminal\
+\
+Skills that I need to improve on:\
+1. Integrating database (sqlite), because everytime I plan to put db.(everything), I will unable to run the app\
+2. Importing module online and how to connect it into database}
